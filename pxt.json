@@ -8,6 +8,7 @@
     },
     "files": [
         "README.md",
+        "_locales/de/pxt-envirobit-strings.json",
         "envirobit.ts"
     ],
     "testFiles": [
