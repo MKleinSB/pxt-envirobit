@@ -1,6 +1,6 @@
 {
   "name": "pxt-envirobit",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "dependencies": {},
   "devDependencies": {
     "pxt": "0.5.1",
