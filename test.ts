@@ -7,7 +7,6 @@ let clap_toggle: boolean = false
 
 let clap_count: number = 0
 
-
 envirobit.onClap(() => { 
     if (envirobit.timeSinceLastClap() < 500) {
         clap_count += 1
