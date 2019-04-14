@@ -19,7 +19,7 @@
     "envirobit.getPressureDecimal|block": "Luftdruck (Dezimal)",
     "envirobit.getPressureFine|block": "Luftdruck (x100)",
     "envirobit.getHumidity|block": "Luftfeuchtigkeit",
-    "envirobit.getHumidity|block": "Luftfeuchtigkeit (Dezimal)",
+    "envirobit.getHumidityDecimal|block": "Luftfeuchtigkeit (Dezimal)",
     "envirobit.getHumidityFine|block": "Luftfeuchtigkeit (x100)",
     "{id:category}envirobit": "Enviro:bit",
     "{id:subcategory}Sound": "Geräusche",
