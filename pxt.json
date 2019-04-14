@@ -1,6 +1,6 @@
 {
     "name": "envirobit",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "Pimoroni Enviro:Bit",
     "license": "MIT",
     "dependencies": {
@@ -8,7 +8,7 @@
     },
     "files": [
         "README.md",
-        "_locales/de/pxt-envirobit-strings.json",
+        "_locales/de/envirobit-strings.json",
         "envirobit.ts"
     ],
     "testFiles": [
