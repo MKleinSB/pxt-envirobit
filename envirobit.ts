@@ -159,7 +159,7 @@ namespace envirobit {
         addr: number
         leds: DigitalPin
 
-        constructor(addr: number, leds: DigitalPin = DigitalPin.P8) {
+        constructor(addr: number, leds: DigitalPin = DigitalPin.C8) {
             this.is_setup = false
             this.addr = addr
             this.leds = leds
@@ -323,7 +323,7 @@ namespace envirobit {
 
     let _bme280: bme280 = new bme280(0x76)
 
-    let _tcs3472: tcs3472 = new tcs3472(0x29, DigitalPin.P8)
+    let _tcs3472: tcs3472 = new tcs3472(0x29, DigitalPin.C8)
 
     let _sound: sound = new sound(AnalogPin.P2)
 
